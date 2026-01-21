@@ -9,7 +9,6 @@ Full‑stack çözümler, hızlı iterasyon ve sürdürülebilir kod yazmaya oda
 - İsim: **İlyas AKTAŞ**  
 - Ünvan: **Senior Full Stack Engineer**  
 - Şu an: Odeon Technology — CRM departmanında, Azure ve .NET Core üzerinde geliştirmeler yapıyorum.  
-- Zamir: tercih etmiyor  
 - Erişilebilirlik: Tam zamanlı iş arıyorum ve freelance / proje bazlı işler alıyorum.
 
 ---
@@ -21,21 +20,6 @@ Full‑stack çözümler, hızlı iterasyon ve sürdürülebilir kod yazmaya oda
 - Diğer: Temiz kod, sürdürülebilir mimari, hızlı iterasyon
 
 ---
-
-## Öne çıkan projeler
-Henüz projelerini eklemedin. İstersen 3–6 favori projeni şu formatta gönder:
-1) Repo/URL:  
-2) Kısa açıklama (1–2 cümle; hangi teknolojiler kullanıldı, proje ne yapıyor, varsa bir başarı)
-
-Bunları ekler eklemez projeler bölümünü ben doldururum.
-
----
-
-## Açık kaynak & katkılar
-Açık kaynak katkılarını veya sıkça kullandığın/koruduğun projeleri paylaşırsan burada listeleyebilirim.
-
----
-
 ## GitHub İstatistikleri
 ![İlyas'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=aktasilyas&show_icons=true&theme=default)
 ![En çok kullanılan diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aktasilyas&layout=compact&theme=default)
@@ -53,5 +37,3 @@ Açık kaynak katkılarını veya sıkça kullandığın/koruduğun projeleri pa
 - İstersen doğrudan e‑posta ile ulaş veya LinkedIn üzerinden mesaj at.
 
 ---
-
-Teşekkürler — profil README'ni samimi bir tonla oluşturdum ve GitHub istatistik kartlarını ekledim. Eğer şimdi projelerini, kısa bir hobini/kişisel dokunuşu veya bir özgeçmiş linkini paylaşırsan, hemen README'yi son hâline getirip güncelleyeyim.
